@@ -45,7 +45,7 @@ main {
 }
 
 #banner {
-    background-image: url(PNG-surf.jpg);
+    background-image: url(aula5formatosite/PNG-surf.jpg);
     background-size: 100%;
     background-position: center;
 }
@@ -270,7 +270,4 @@ main {
 #organizacao blockquote {
     margin: 0;
     padding: 20px;
-}
-
-
 }
