@@ -4,7 +4,7 @@
     --azul-inativo: rgb(0, 34, 48);
     --azul-box: rgb(0, 98, 153);
     --azul-claro: rgb(204, 236, 254);
-    --branco: ;
+    --branco: #fff;
 }
 
 * {
@@ -45,7 +45,7 @@ main {
 }
 
 #banner {
-    background-image: url(PNG-surf.jpg);
+    background-image: url();
     background-size: 100%;
     background-position: center;
 }
